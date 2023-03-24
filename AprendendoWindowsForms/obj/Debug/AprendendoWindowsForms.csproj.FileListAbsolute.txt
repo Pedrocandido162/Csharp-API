@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\AprendendoWindowsForms\AprendendoWindowsForms\bin\Debug\AprendendoWindowsForms.exe.config
+C:\Users\Pedro\source\repos\AprendendoWindowsForms\AprendendoWindowsForms\bin\Debug\AprendendoWindowsForms.exe
+C:\Users\Pedro\source\repos\AprendendoWindowsForms\AprendendoWindowsForms\bin\Debug\AprendendoWindowsForms.pdb
+C:\Users\Pedro\source\repos\AprendendoWindowsForms\AprendendoWindowsForms\obj\Debug\AprendendoWindowsForms.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\AprendendoWindowsForms\AprendendoWindowsForms\obj\Debug\AprendendoWindowsForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pedro\source\repos\AprendendoWindowsForms\AprendendoWindowsForms\obj\Debug\AprendendoWindowsForms.Form1.resources
+C:\Users\Pedro\source\repos\AprendendoWindowsForms\AprendendoWindowsForms\obj\Debug\AprendendoWindowsForms.Properties.Resources.resources
+C:\Users\Pedro\source\repos\AprendendoWindowsForms\AprendendoWindowsForms\obj\Debug\AprendendoWindowsForms.csproj.GenerateResource.cache
+C:\Users\Pedro\source\repos\AprendendoWindowsForms\AprendendoWindowsForms\obj\Debug\AprendendoWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\AprendendoWindowsForms\AprendendoWindowsForms\obj\Debug\AprendendoWindowsForms.exe
+C:\Users\Pedro\source\repos\AprendendoWindowsForms\AprendendoWindowsForms\obj\Debug\AprendendoWindowsForms.pdb
+C:\Users\Pedro\source\repos\AprendendoWindowsForms\AprendendoWindowsForms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pedro\source\repos\AprendendoWindowsForms\AprendendoWindowsForms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pedro\source\repos\AprendendoWindowsForms\AprendendoWindowsForms\obj\Debug\AprendendoWindowsForms.csproj.CopyComplete
